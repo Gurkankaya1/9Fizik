@@ -88,6 +88,7 @@ _ _ _
   
   _ _ _
   | Aile Üyeleri | Kütle(kg) | boy(m) | vücut kitle indeksi(kg/m2) | Sonuç |
+  | _ _ _ _ _ _  | _ _ _ | _ _ _ | _ _ _ _ _ _ _ _ _ _ | _ _ _ _ _ _ _ _ |
   | Annem | 66 | 1,67 | 23,6 | Sağlıklı |
   | Babam | 76 | 1,67 | 27,2 | İdeal kilonun üstünde |
   | Abim | 85 | 1,85 | 24,8 | Sağlıklı |
