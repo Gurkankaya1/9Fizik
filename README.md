@@ -78,8 +78,9 @@ _ _ _
   
   
   | Boyut | Kalori |
-  | _ _ _ | _ _ _  |
+  | _ _ _ | _ _ _ |
   | 1 tabak patates kızartması(yaklaşık 100 gram) | 536 |
+  | _ _ _ | _ _ _ |
   | Patates kızartması(toplam) | 3000 |
   
   
@@ -90,8 +91,11 @@ _ _ _
   | Aile Üyeleri | Kütle(kg) | boy(m) | vücut kitle indeksi(kg/m2) | Sonuç |
   | _ _ _ _ _ _  | _ _ _ | _ _ _ | _ _ _ _ _ _ _ _ _ _ | _ _ _ _ _ _ _ _ |
   | Annem | 66 | 1,67 | 23,6 | Sağlıklı |
+  | _ _ _ | _ _ _ | _ _ _ | _ _ _ | _ _ _ |
   | Babam | 76 | 1,67 | 27,2 | İdeal kilonun üstünde |
+  | _ _ _ | _ _ _ | _ _ _ | _ _ _ | _ _ _ |
   | Abim | 85 | 1,85 | 24,8 | Sağlıklı |
+  | _ _ _ | _ _ _ | _ _ _ | _ _ _ | _ _ _ |
   | Ben | 66 | 1,80 | 20,3 | Sağlıklı |
   
   
